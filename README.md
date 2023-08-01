@@ -1,7 +1,7 @@
 ![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/09/Exploring-Blockchain.gif)
 <h1 align="center">Hi 👋, I'm Smit Bhanushali</h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/82f491f0f34bdd7b0082f9e122f254a05ac1e3eda4c974761727877fefd11350/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f31662f38352f65313166383532396632313531633036383831656534633938616661656337322e676966">
+<img style="border:10px solid black;" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/82f491f0f34bdd7b0082f9e122f254a05ac1e3eda4c974761727877fefd11350/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f31662f38352f65313166383532396632313531633036383831656534633938616661656337322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stranger-block&label=Profile%20views&color=0e75b6&style=flat" alt="stranger-block" /> </p>
 
