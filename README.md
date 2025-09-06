@@ -1,9 +1,7 @@
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+![MasterHead](https://github.com/Stranger-Block/Stranger-Block/blob/4e8d9b58dab21a285b463d4331055590e372a1e8/Images/Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Smit Bhanushali</h1>
-<h3 align="center">🚀 Software Engineer | Research Enthusiast | Tech Explorer</h3>
-
-<img style="border:5px solid #0d1117; border-radius:10px;" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/82f491f0f34bdd7b0082f9e122f254a05ac1e3eda4c974761727877fefd11350/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f31662f38352f65313166383532396632313531633036383831656534633938616661656337322e676966">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=stranger-block&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
@@ -31,17 +29,24 @@ I thrive on **solving complex challenges** and continuously enhance my knowledge
 
 ---
 
-## 📄 Research & Publications  
+## 📄 Research, Publications & Certifications  
 
-### **1. Smart Forensics: A Blockchain Contract Approach Review** *(Published)*  
-- **Published:** October 4, 2024  
-- **Journal:** National Forensic Sciences University (NFSU), Gandhinagar, Gujarat  
-- **Conference:** 1st International Conference on the Role of Blockchain in Digital Forensics and Cyber Security  
-- **Link:** [View Publication](https://jcsdf.nfsu.ac.in/Articles?id=58)
+### **Publications**
+#### **1. Smart Forensics: A Blockchain Contract Approach Review** *(Published)*  
+**Conference:** BDFCS 2025, NFSU  
+**Link:** [View Publication](https://jcsdf.nfsu.ac.in/Articles?id=58)
 
-### **2. Upcoming Research**
-- **Hybrid Blockchain Framework with Decentralized Identity** *(Accepted)* – **BDFCS 2025, NFSU**  
-- **A Framework for Enhancing Supply Chain Management & Decentralized Identity** *(Accepted)* – **ICISPD 2024, NIT Goa**
+#### **2. Hybrid Blockchain Framework with Decentralized Identity** *(Accepted)*  
+**Conference:** BDFCS 2025, NFSU
+
+#### **3. A Framework for Enhancing Supply Chain Management & Decentralized Identity** *(Accepted)*  
+**Conference:** ICISPD 2024, NIT Goa  
+
+---
+
+### **Certifications**
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/2202smitbhanushali/9952273ACE3BD557?sharingId=CE96B4C150008E6)
+
 
 ---
 
