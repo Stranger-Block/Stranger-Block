@@ -3,6 +3,15 @@
   <img src="https://github.com/Stranger-Block/Stranger-Block/blob/4e8d9b58dab21a285b463d4331055590e372a1e8/Images/Banner.png" alt="MasterHead" width="80%" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Stranger-Block">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Smit+Bhanushali;Software+Engineer+%7C+.NET+Developer;Researcher+%7C+Tech+Enthusiast;Always+Learning+New+Things!+🚀">
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me  
 
 I am a **Software Engineer** passionate about building **scalable, efficient, and innovative software solutions** while integrating **technology with strategic thinking** to deliver impactful results. 💡📈  
@@ -71,10 +80,16 @@ I am a **Software Engineer** passionate about building **scalable, efficient, an
 ---
 
 ## 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stranger-block&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stranger-block&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stranger-block&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=stranger-block&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger-block&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
 
 ---
 
